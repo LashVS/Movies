@@ -36,3 +36,16 @@ CREATE TABLE Movie (
     Rating VARCHAR(255),
     Description VARCHAR(2048)
 );
+```
+
+## After run
+
+After app is up and running navigate to url in your browser
+
+``
+http://localhost:8080/midterm_war_exploded/
+``
+
+where you will see a page:
+
+![img.png](img.png)
